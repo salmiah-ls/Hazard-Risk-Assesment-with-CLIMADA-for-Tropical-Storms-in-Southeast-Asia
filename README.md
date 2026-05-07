@@ -1,5 +1,9 @@
 ## Hazard Risk Assesment with CLIMADA for Tropical Storms in Southeast Asia
-
+<figure>
+  <img src="./images/2024-typhoon-sea.png" alt="Southeast Asia Typhoon 2024" width="800"/>
+  <figcaption>Southeast Asia Typhoon 2024</figcaption>
+</figure>
+<br /><br />
 This repository contains only source code in Jupyter Notebook (Python) and Power BI. For description and details of the project, please visit the [website version](https://sites.google.com/view/salmiah-ls/home#h.em82epcfyhb8)
 
 
