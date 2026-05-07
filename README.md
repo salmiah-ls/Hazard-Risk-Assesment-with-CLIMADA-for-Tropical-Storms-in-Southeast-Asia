@@ -1,4 +1,5 @@
-## Hazard Risk Assesment with AI for Tro[ical Storms in Southeast Asia
+## Hazard Risk Assesment with CLIMADA for Tropical Storms in Southeast Asia
+
 This repository contains only source code in Jupyter Notebook (Python) and Power BI. For description and details of the project, please visit the [website version](https://sites.google.com/view/salmiah-ls/home#h.em82epcfyhb8)
 
 
