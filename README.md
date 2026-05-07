@@ -9,9 +9,9 @@ This repository contains only source code in Jupyter Notebook (Python) and Power
 <br /><br />
 This repository consists of 3 parts:
 <ul>
-<li>[Mapping Typhoons in Southeast Asia](https://github.com/salmiah-ls/Hazard-Risk-Assesment-with-AI-for-Tropical-Storms-in-Southeast-Asia/tree/main/Mapping-Typhoons)</li>
-<li>[Typhoon Haiyan, November 2013: Central Philippines](https://github.com/salmiah-ls/Hazard-Risk-Assesment-with-AI-for-Tropical-Storms-in-Southeast-Asia/tree/main/Haiyan-Philippines-2013)</li>
-<li>[Typhoon Yagi, September 2024: Northern Vietnam](https://github.com/salmiah-ls/Hazard-Risk-Assesment-with-AI-for-Tropical-Storms-in-Southeast-Asia/tree/main/Yagi-Vietnam-2024)</li>
+<li><a href="https://github.com/salmiah-ls/Hazard-Risk-Assesment-with-CLIMADA-for-Tropical-Storms-in-Southeast-Asia/tree/main/Mapping-Typhoons">Mapping Typhoons in Southeast Asia</a></li>
+<li><a href="https://github.com/salmiah-ls/Hazard-Risk-Assesment-with-CLIMADA-for-Tropical-Storms-in-Southeast-Asia/tree/main/Haiyan-Philippines-2013">Typhoon Haiyan, November 2013: Central Philippines</a></li>
+<li><a href="https://github.com/salmiah-ls/Hazard-Risk-Assesment-with-CLIMADA-for-Tropical-Storms-in-Southeast-Asia/tree/main/Yagi-Vietnam-2024">Typhoon Yagi, September 2024: Northern Vietnam</a></li>
 </ul>
 
 
